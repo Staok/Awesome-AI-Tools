@@ -4,7 +4,7 @@
 
 文中有许多内容作者还没有亲自尝试，所以很多内容只是罗列，但信息大源都已给出，授人以渔，欢迎 PR 补充细节内容，比如 好的教程、简明使用步骤、工具的优缺点、使用经验等等！！！
 
-注：[在 Github 上的原版文章日后可能会更新](https://github.com/Staok/ARM-Linux-Study)，在其它位置发的不会跟进。[文章的 Gitee 仓库地址，Gitee 访问更流畅](https://gitee.com/staok/ARM-Linux-Study)。
+注：[在 Github 上的原版文章日后可能会更新](https://github.com/Staok/Awesome-AI-Tools)，在其它位置发的不会跟进。[文章的 Gitee 仓库地址，Gitee 访问更流畅](https://gitee.com/staok/Awesome-AI-Tools)。
 
 ------
 
