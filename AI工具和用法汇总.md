@@ -6,6 +6,10 @@
 
 注：[在 Github 上的原版文章日后可能会更新](https://github.com/Staok/Awesome-AI-Tools)，在其它位置发的不会跟进。[文章的 Gitee 仓库地址，Gitee 访问更流畅](https://gitee.com/staok/Awesome-AI-Tools)。
 
+![带着AI看这大千世界](assets/带着AI看这大千世界.jpeg)
+
+*带着AI看这大千世界*
+
 ------
 
 ## AIGC 相关
