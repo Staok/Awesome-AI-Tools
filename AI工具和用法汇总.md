@@ -23,7 +23,7 @@ AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike
 - [首页 - Deeppp新一代AI技术驱动Bot平台,自定义Bot,自训练Bot](https://www.deeppp.com/)。
 - [道合顺infinigo官网-国产芯片替代,IC交易网上商城,电子元器件智能匹配平台](https://www.infinigo.com/chatic) 适合搞硬件的用。
 
-
+一个 综合贴 [GPT-4与GPT-3.5免费AI平台大全_-资本家-的博客-CSDN博客](https://blog.csdn.net/weixin_44406127/article/details/130485973)。
 
 ### GPT 综合性合集
 
@@ -387,7 +387,9 @@ https://platform.openai.com/docs/guides/completion。
 
 > 利用人工智能技术，可以将文字内容转换成名人语音，使得文字和语音之间的转化变得更加简单和高效。用户可以轻松地将自己的文字内容转换成名人的语音风格，增加内容的趣味性和吸引力。此外，这种技术还可以用于制作语音包、广告语音等多种场景，为用户带来更加便捷和有趣的体验。
 
-[深度伪造技术FAKE YOU - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/585874280)，[FakeYou. Deep Fake Text to Speech.](https://fakeyou.com/)。
+[深度伪造技术FAKE YOU - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/585874280)。
+
+官网 [FakeYou. Deep Fake Text to Speech.](https://fakeyou.com/)。
 
 
 
