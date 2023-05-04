@@ -242,8 +242,6 @@ https://platform.openai.com/docs/guides/completion。
 
 ## AI 相关工具集
 
-包括 我的“E:\桌面&作品工程&学习 - 备份\桌面~云备份！\【4 软件】\AI-app”里面的
-
 
 
 ### 合集
@@ -253,8 +251,6 @@ https://platform.openai.com/docs/guides/completion。
 - [近期热门AI工具推荐，值得收藏！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/617161568)。
 - .etc
 - [AIChannel官方的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/1473830)，[AIChannel中国绊爱的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/484322035)。~~误~~
-
-
 
 
 
