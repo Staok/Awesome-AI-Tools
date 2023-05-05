@@ -12,6 +12,19 @@
 
 ------
 
+## ！Awesome AI Tools 相关仓库！
+
+Github 上面直接搜：[Repository search results · GitHub](https://github.com/search?q=Awesome+AI+Tools&type=repositories&s=&o=desc)。
+
+- [ikaijua/Awesome-AITools: Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests (github.com)](https://github.com/ikaijua/Awesome-AITools)。
+- [jiji262/awesome-AIGC-tools: AIGC information including ChatGPT , GPT-4 and others. (github.com)](https://github.com/jiji262/awesome-AIGC-tools)。
+- [pingan8787/awesome-ai-tools: Finding the AI tools you need! (github.com)](https://github.com/pingan8787/awesome-ai-tools)。
+- [JMcrafter26/awesome-ai-tools: A list of AWESOME AI tools on Github](https://github.com/JMcrafter26/awesome-ai-tools)。
+- [nanogiants/awesome-ai-tools: A curated list of AI-powered tools (github.com)](https://github.com/nanogiants/awesome-ai-tools)。
+- [georgezouq/awesome-ai-in-finance: 🔬 A curated list of awesome machine learning strategies & tools in financial market. (github.com)](https://github.com/georgezouq/awesome-ai-in-finance)。
+- [altryne/awesome-ai-art-image-synthesis: A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools. (github.com)](https://github.com/altryne/awesome-ai-art-image-synthesis)。
+- [CognonicLabs/awesome-AI-kubernetes: Awesome tools and libs for AI, Deep Learning, Machine Learning, Computer Vision, Data Science, Data Analytics and Cognitive Computing that are baked in the oven to be Native on Kubernetes and Docker with Python, R, Scala, Java, C#, Go, Julia, C++ etc (github.com)](https://github.com/CognonicLabs/awesome-AI-kubernetes)。
+
 ## AIGC 相关
 
 AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike.baidu.com/item/AIGC/59988381?fr=aladdin)，维基百科 be like 。
@@ -124,11 +137,11 @@ AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike
 
 #### AI 帮你码
 
-##### 用好提示词生成代码
-
-即自己亲自与 ChatGPT 结对开发，用好、用对 提示词 让 ChatGPT 处于 “编程” 模式 去输出代码，快速做原型开发。
+首先，用好提示词生成代码，即自己亲自与 ChatGPT 结对开发，用好、用对 提示词 让 ChatGPT 处于 “编程” 模式 去输出代码，快速做原型开发。
 
 提示词相关教程 见下文 `提示词工程` 一节。
+
+一个使用例子：[程序员如何利用 AI 将自己的工作完全自动化？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/594150259)。
 
 ##### getcursor/cursor
 
@@ -150,7 +163,13 @@ AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike
 - 相关文章：
   - [近期最火的GPT神器：AutoGPT，你知道多少 (baidu.com)](https://baijiahao.baidu.com/s?id=1763141741502922059&wfr=spider&for=pc)。
   - [AutoGPT怎么使用 AutoGPT使用教程一览 - QT软件园 (qtvcd.com)](https://www.qtvcd.com/news/739-153851.html)。
-- Github 仓库：[Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous. (github.com)](https://github.com/Significant-Gravitas/Auto-GPT)。
+  
+- Github 仓库：
+
+  - [Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous. (github.com)](https://github.com/Significant-Gravitas/Auto-GPT)。
+
+  - [RealHossie/Auto-GPT-Chinese: AutoGPT真中文版 (github.com)](https://github.com/RealHossie/Auto-GPT-Chinese)。
+
 - 部署相关：
   - [Dogtiti/AutoGPT-Next-Web: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用 (github.com)](https://github.com/Dogtiti/AutoGPT-Next-Web)。
   - [thecookingsenpai/autogpt-gui: A graphical user interface for AutoGPT (github.com)](https://github.com/thecookingsenpai/autogpt-gui)。
@@ -219,8 +238,10 @@ AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike
 
 ### 《Prompt 编写模式》开源书
 
-- Github 仓库;[prompt-engineering/prompt-patterns: Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt (github.com)](https://github.com/prompt-engineering/prompt-patterns)。
+- Github 仓库：[prompt-engineering/prompt-patterns: Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt (github.com)](https://github.com/prompt-engineering/prompt-patterns)。
 - 即用网页，书直接看：[Prompt 编写模式：如何将思维框架赋予机器 | prompt-patterns (phodal.com)](https://prompt-patterns.phodal.com/)。
+
+更多内容 [Prompt Engineering（瑞书工程） (github.com)](https://github.com/prompt-engineering)。
 
 
 
@@ -309,6 +330,7 @@ https://platform.openai.com/docs/guides/completion。
 教程：
 
 - [🧭 Midjourney 学习导航 | Learning Prompt](https://learningprompt.wiki/docs/midjourney-learning-path)。
+- [Midjourney提示词集合 - 知乎 (zhihu.com)](https://www.zhihu.com/question/592244719/answer/2965441617)。
 - 直接 学习网站——B 站搜：[Midjourney教程-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=Midjourney教程)。
 - .etc
 
@@ -325,6 +347,7 @@ https://platform.openai.com/docs/guides/completion。
 教程：
 
 - [零基础入门 Stable Diffusion - 无需显卡把 AI 绘画引擎搬进家用电脑 | LearnData-开源笔记 (newzone.top)](https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html)。
+- [喂饭级stable_diffusion_webUI调参权威指南 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/620578593)。
 - 直接 学习网站——B 站搜：[diffusion教程-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=diffusion教程)。
 - .etc
 
@@ -533,8 +556,10 @@ https://platform.openai.com/docs/guides/completion。
 |          |          TruthGPT          | [TruthGPT](https://truthgpt.one/)。                          |
 |   .etc   |                            |                                                              |
 
-## ChatGPT 搞笑 / 惊人使用
+## AIGC 搞笑 / 惊人使用
 
-回顾初遇 ChatGPT 人们的种种反应，各种搞笑对话，脑洞打开的使用方法！
+回顾初遇 ChatGPT / AIGC 人们的种种反应，各种搞笑对话，脑洞打开的使用方法！
 
 [你用 ChatGPT 生成过哪些有趣的回答？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/570430650)。
+
+[你见过最离谱的Midjourney生成图片是哪张？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/592244719)。
