@@ -1,14 +1,16 @@
 # AI 工具和用法汇总
 
-汇集整理 by [Staok/瞰百](https://github.com/Staok)，源于相关资料在我这慢慢越积累越多，到了不得不梳理的程度。
+汇集整理 by [Staok/瞰百](https://github.com/Staok)，源于相关资料在我这慢慢越积累越多，到了不得不梳理的程度。文中出现的网图侵删。
 
 文中有许多内容作者还没有亲自尝试，所以很多内容只是罗列，但信息大源都已给出，授人以渔，欢迎 PR 补充细节内容，比如 好的教程、简明使用步骤、工具的优缺点、使用经验等等！！！
 
-注：[在 Github 上的原版文章日后可能会更新](https://github.com/Staok/Awesome-AI-Tools)，在其它位置发的不会跟进。[文章的 Gitee 仓库地址，Gitee 访问更流畅](https://gitee.com/staok/Awesome-AI-Tools)。
+注：[这是 本文原版文章的 Github 仓库，在这里日后可能会更新](https://github.com/Staok/Awesome-AI-Tools)，在其它位置发的不会跟进，原文使用 Markdown 写成，在一些网站的排版会不完美，推荐去 github/gitee 或者 [个人小站](https://staok.gitee.io/28ai%E5%B7%A5%E5%85%B7%E5%92%8C%E7%94%A8%E6%B3%95%E6%B1%87%E6%80%BB/) 看原文，[这是文章的 Gitee 仓库地址，Gitee 访问更流畅](https://gitee.com/staok/Awesome-AI-Tools)。
 
 ![带着AI看这大千世界](assets/带着AI看这大千世界.jpeg)
 
 *带着AI看这大千世界*
+
+富强、**民主**、文明、和谐，**自由**、平等、公正、法治，爱国、敬业、诚信、友善。
 
 ------
 
@@ -27,7 +29,7 @@ Github 上面直接搜：[Repository search results · GitHub](https://github.co
 
 ## AIGC 相关
 
-AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike.baidu.com/item/AIGC/59988381?fr=aladdin)，维基百科 be like 。
+AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike.baidu.com/item/AIGC/59988381?fr=aladdin)，维基百科 be like ，还有 [AIGC - MBA智库百科 (mbalib.com)](https://wiki.mbalib.com/wiki/AIGC)，[人工智能生成内容（AIGC）白皮书（2022年）--中国信通院 (caict.ac.cn)](http://www.caict.ac.cn/sytj/202209/t20220913_408835.htm) 可直接下载 pdf。
 
 ### ChatGPT 快速使用
 
@@ -37,6 +39,23 @@ AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike
 - [道合顺infinigo官网-国产芯片替代,IC交易网上商城,电子元器件智能匹配平台](https://www.infinigo.com/chatic) 适合搞硬件的用。
 
 一个 综合贴 [GPT-4与GPT-3.5免费AI平台大全_-资本家-的博客-CSDN博客](https://blog.csdn.net/weixin_44406127/article/details/130485973)。
+
+
+
+### GPT 相关介绍 / 感悟文章 / 相关话题
+
+- [ChatGPT的工作原理 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzA3NTAxMjEyMg==&mid=2649956389&idx=1&sn=044667416a3be7dfefd055955dacdda1&chksm=87708150b0070846e679b7864a7a8f666eddce8c32f28fd196c49aac32bbba2bb31b41e23f7c&scene=132#wechat_redirect)。
+- [冒冷汗.... GPT-5 已经看完了人类世界所有视频 (qq.com)](https://mp.weixin.qq.com/s?__biz=Mzg3NjY4NDQxMw==&mid=2247483915&idx=1&sn=296135e3e798eb49c01e940a043f3427&chksm=cf2f3719f858be0f949d3897b74d7736c24a8918d0f82b0f01a862beb26897054648679fbac6&scene=132#wechat_redirect)。
+- [ChatGPT是传说中的银弹吗？ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzI4NjY1NjAxMQ==&mid=2247484241&idx=1&sn=d281123c6e04f9242d9e514c8ba87795&chksm=ebd8d035dcaf59235aa6b6a2986842faeeb099ed13a04144bcf4f65470a06eadefd88a9d7d46&scene=178&cur_album_id=2853007418614661128#rd)。
+- GitHubDaily 的 [#ChatGPT (qq.com)](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxOTcxNTIwNQ==&action=getalbum&album_id=2699685581743882241&scene=173&from_msgid=2457979558&from_itemidx=1&count=3&nolastread=1#wechat_redirect) 列表，持续更新。
+
+
+
+- 知乎相关话题：[ChatGPT - 知乎 (zhihu.com)](https://www.zhihu.com/topic/26691895/top-answers)。[ChatGPT变现 - 知乎 (zhihu.com)](https://www.zhihu.com/topic/26988602/hot)。[ChatGPT概念 - 知乎 (zhihu.com)](https://www.zhihu.com/topic/26983774/top-answers)。
+- [「AI 孙燕姿」火遍全网，随着技术的发展，未来 AI 歌手会成为主流吗？这一技术还可能应用到哪些场景？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/599898172)。
+- 
+
+
 
 ### GPT 综合性合集
 
@@ -50,138 +69,13 @@ AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike
 - [LangLangShanDeNanKe/chatgpt: ChatGPT网址导航，分享免费好用AI网站！ (github.com)](https://github.com/LangLangShanDeNanKe/chatgpt)。
 - [📚 资料 & 产品推荐 | Learning Prompt](https://learningprompt.wiki/docs/category/-资料--产品推荐)。
 
-知乎相关话题：[ChatGPT - 知乎 (zhihu.com)](https://www.zhihu.com/topic/26691895/top-answers)。[ChatGPT变现 - 知乎 (zhihu.com)](https://www.zhihu.com/topic/26988602/hot)。[ChatGPT概念 - 知乎 (zhihu.com)](https://www.zhihu.com/topic/26983774/top-answers)。
-
 
 
 ### ChatGPT做事情景列举
 
-网图侵删。
-
 ![ChatGPT做事情景1](assets/ChatGPT做事情景1.jpg)
 
 <img src="assets/ChatGPT做事情景2.jpg" alt="ChatGPT做事情景2" style="zoom: 67%;" />
-
-
-
-### GPT 衍生工具
-
-
-
-#### 学术优化
-
-##### binary-husky/gpt_academic
-
-> 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。
->
-> | 功能                      | 描述                                          |
-> | :------------------------ | :-------------------------------------------- |
-> | 一键润色                  | 支持一键润色、一键查找论文语法错误            |
-> | 一键中英互译              | 一键中英互译                                  |
-> | 一键代码解释              | 可以正确显示代码、解释代码                    |
-> | 自定义快捷键              | 支持自定义快捷键                              |
-> | 配詈代理服务器            | 支持配置代理服务器                            |
-> | 模块化设计                | 支持自定义高阶的实验性功能                    |
-> | 自我程序剖析              | ［实验性功能］ 一键读懂本项目的源代码         |
-> | 程序剖析                  | ［实验性功能］ —键可以剖析其他Python/C+＋项目 |
-> | 读论文                    | ［实验性功能］ —键解读latex论文全文并生成摘要 |
-> | 批量注释生成              | ［实验性功能］ —键批量生成函数注释            |
-> | chat分析报告生成          | ［实验性功能］运行后自动生成总结汇报          |
-> | 公式显示                  | 可以同时显示公式的tex形式和渲染形式           |
-> | 图片显示                  | 可以在markdown中显示图片                      |
-> | 支持GPT输出的markdown表格 | 可以输出支持GPT的markdown表格                 |
-
-- 相关文章：[学术科研专用ChatGPT来了！Github上已斩获2.9w+ Star (qq.com)](https://mp.weixin.qq.com/s?__biz=Mzg5NjkxOTkxOA==&mid=2247484540&idx=1&sn=65572c248dcfc836527d2cd1450269d5&chksm=c078f47df70f7d6bd56a2adbd3099256c8f3f7eeb534255a4465fe4026e49ec230add3438bf9&scene=132#wechat_redirect)。
-- Github 仓库：[binary-husky/gpt_academic: 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型 (github.com)](https://github.com/binary-husky/gpt_academic)。
-
-##### kaixindelele/ChatPaper
-
-> ChatPaper全流程加速科研：论文阅读+润色+优缺点分析与改进建议+审稿回复。
->
-> | 工具名称        | 工具作用                                                     |
-> | --------------- | ------------------------------------------------------------ |
-> | ChatPaper       | 通过ChatGPT实现对**论文进行总结，帮助科研人进行论文初筛**    |
-> | ChatReviewer    | 利用ChatGPT对论文进行**优缺点分析，提出改进建议**            |
-> | ChatImprovement | 利用ChatGPT对**论文初稿进行润色、翻译等**                    |
-> | ChatResponse    | 利用ChatGPT对**审稿人的提问进行回复**                        |
-> | ChatGenTitle    | 利用百万arXiv论文元信息训练出来的论文题目生成模型，**根据论文摘要生成合适题目** |
-
-- 视频教程：[ChatPaper网页版使用小白教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18V4y1o7EH/)。
-- 官网：[ChatPaper](https://chatpaper.org/)。
-- Github 仓库：[kaixindelele/ChatPaper: Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复 (github.com)](https://github.com/kaixindelele/ChatPaper)。
-
-
-
-#### AI 帮你看
-
-首先，直接给 GPT 聊天框 投喂 要 AI 来帮你看 和 总结 的文本，并让 他 根据你的需要输出，其次，下面列举一些 专用的 GPT 衍生的 AI 帮你看东西的 工具。
-
-##### BloopAI/bloop - AI 读代码
-
-> 自然语言搜索非常适合探索不熟悉的代码库。它可以定位代码、总结、解释、推理，甚至提出改进建议。
-
-- 相关文章：[一个基于 GPT-4 的代码搜索引擎，开源了！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457982448&idx=1&sn=aa3c06c76aa67ba2bf77ca32d8967865&chksm=8cb7b01abbc0390c8b8afefc8d4e982430c27a85b1f26719550da1252e33c9d13bbaf6dbd518&scene=132#wechat_redirect)。
-- Github 仓库：[BloopAI/bloop: bloop is a fast code search engine written in Rust. (github.com)](https://github.com/BloopAI/bloop)。
-
-##### peterw/Chat...Repo - AI 读 GitHub 仓库
-
-- 相关文章：[3 个令人惊艳的 ChatGPT 项目，开源了！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457982631&idx=1&sn=6b5a837e8a9c3f2327530d549af504ab&chksm=8cb7b34dbbc03a5bec2709240602f0f0a5b594015c133c6b81422775b6cab441b48fb9c315f3&scene=132#wechat_redirect)。
-- Github 仓库：[peterw/Chat-with-Github-Repo: This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.](https://github.com/peterw/Chat-with-Github-Repo)。
-
-##### bhaskatripathi/pdfGPT - AI 看PDF
-
-- 相关文章：[最近爆火的一款 PDF 神器！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457980858&idx=1&sn=2755621d745a986a2eda31abf759983e&chksm=8cb7aa50bbc023461f2a8dca4e89cff62c24fa32b9046170ac584df48506cea7b5085d6ecdfa&scene=178&cur_album_id=2699685581743882241#rd)。
-- Github 仓库：[bhaskatripathi/pdfGPT: PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot! (github.com)](https://github.com/bhaskatripathi/pdfGPT)。
-
-
-
-#### AI 帮你码
-
-首先，用好提示词生成代码，即自己亲自与 ChatGPT 结对开发，用好、用对 提示词 让 ChatGPT 处于 “编程” 模式 去输出代码，快速做原型开发。
-
-提示词相关教程 见下文 `提示词工程` 一节。
-
-一个使用例子：[程序员如何利用 AI 将自己的工作完全自动化？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/594150259)。
-
-##### getcursor/cursor
-
-- 相关文章：[首个接入 GPT-4，曾经比 GitHub Copilot 还好用的代码编辑器，开源了！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457981336&idx=1&sn=17d4d07eacf28d1728502701935186bc&chksm=8cb7b472bbc03d64a0a728ae78b7b7e85197eef892a7fceffce5f9eae9a1c8fb67df1608925d&scene=178&cur_album_id=2699685581743882241#rd)。
-- Github 仓库：[getcursor/cursor: An editor made for programming with AI 🤖 (github.com)](https://github.com/getcursor/cursor)。
-
-##### GitHub Copilot X
-
-- 相关文章：[动动嘴，就能帮你生成代码！焕然一新的代码编辑器：GitHub Copilot X，来了！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457981240&idx=1&sn=1967aaf387bac6cf24792d28cabba3d1&chksm=8cb7b4d2bbc03dc4d889542c51d750d501d1735c4f7afdf0a7eba305bbe4ccc17d9b0563ee14&scene=178&cur_album_id=2699685581743882241#rd)。
-
-##### Copilot Voice
-
-- 相关文章：[集成 GPT-4，动动嘴就能上线一个网站，这个工具强的离谱！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457981602&idx=2&sn=562f0f935e7360ec44d6929e9791b828&chksm=8cb7b748bbc03e5e70c35184abdf6fb52777b0d1f24eb4f10673eea35d36b188a7ab5b9484b2&scene=178&cur_album_id=2699685581743882241#rd)。
-
-
-
-#### AutoGPT - AI 全链路
-
-- 相关文章：
-  - [近期最火的GPT神器：AutoGPT，你知道多少 (baidu.com)](https://baijiahao.baidu.com/s?id=1763141741502922059&wfr=spider&for=pc)。
-  - [AutoGPT怎么使用 AutoGPT使用教程一览 - QT软件园 (qtvcd.com)](https://www.qtvcd.com/news/739-153851.html)。
-  
-- Github 仓库：
-
-  - [Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous. (github.com)](https://github.com/Significant-Gravitas/Auto-GPT)。
-
-  - [RealHossie/Auto-GPT-Chinese: AutoGPT真中文版 (github.com)](https://github.com/RealHossie/Auto-GPT-Chinese)。
-
-- 部署相关：
-  - [Dogtiti/AutoGPT-Next-Web: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用 (github.com)](https://github.com/Dogtiti/AutoGPT-Next-Web)。
-  - [thecookingsenpai/autogpt-gui: A graphical user interface for AutoGPT (github.com)](https://github.com/thecookingsenpai/autogpt-gui)。
-
-
-
-### GPT 相关介绍 / 感悟文章
-
-- [ChatGPT的工作原理 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzA3NTAxMjEyMg==&mid=2649956389&idx=1&sn=044667416a3be7dfefd055955dacdda1&chksm=87708150b0070846e679b7864a7a8f666eddce8c32f28fd196c49aac32bbba2bb31b41e23f7c&scene=132#wechat_redirect)。
-- [冒冷汗.... GPT-5 已经看完了人类世界所有视频 (qq.com)](https://mp.weixin.qq.com/s?__biz=Mzg3NjY4NDQxMw==&mid=2247483915&idx=1&sn=296135e3e798eb49c01e940a043f3427&chksm=cf2f3719f858be0f949d3897b74d7736c24a8918d0f82b0f01a862beb26897054648679fbac6&scene=132#wechat_redirect)。
-- [ChatGPT是传说中的银弹吗？ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzI4NjY1NjAxMQ==&mid=2247484241&idx=1&sn=d281123c6e04f9242d9e514c8ba87795&chksm=ebd8d035dcaf59235aa6b6a2986842faeeb099ed13a04144bcf4f65470a06eadefd88a9d7d46&scene=178&cur_album_id=2853007418614661128#rd)。
-- GitHubDaily 的 [#ChatGPT (qq.com)](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxOTcxNTIwNQ==&action=getalbum&album_id=2699685581743882241&scene=173&from_msgid=2457979558&from_itemidx=1&count=3&nolastread=1#wechat_redirect) 列表，持续更新。
 
 
 
@@ -209,6 +103,10 @@ AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike
 
 在上面 `GPT 综合性合集` 一节里面 也列举了一些 提示词 教程。
 
+[提示工程 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/提示工程)。
+
+
+
 ### ChatGPT-Shortcut
 
 > 该项目整理并汇总了多种让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词（Prompt）进行标签筛选、关键词搜索和一键复制。
@@ -227,7 +125,7 @@ AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike
 
 
 
-### img-prompt
+### img-prompt - 图像生成提示词
 
 > 极简的图像提示词编辑器，专注于提示词文本组合，可用于Stable Diffusion和Midjourney。
 
@@ -257,11 +155,15 @@ AIGC 词义，百度百科 be line [AIGC_百度百科 (baidu.com)](https://baike
 
 https://platform.openai.com/docs/guides/completion。
 
-### 网文
+
+
+### GPT 生成网文
 
 - [ChatGPT最实用的提示（Prompts）写法有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/584402332/answer/2979461989)。
 
+### GPT 充当角色
 
+- [chatgpt的150个指令大全_cxscode的博客-CSDN博客](https://blog.csdn.net/cxs812760493/article/details/130544858)。
 
 
 
@@ -272,10 +174,142 @@ https://platform.openai.com/docs/guides/completion。
 ### 合集
 
 - [AI工具-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=AI工具)，[AIGC工具-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=AIGC工具)。
-- [神器-发现AI好工具的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/240630255)。
-- [近期热门AI工具推荐，值得收藏！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/617161568)。
+- [在我忘记之前 - 知乎 (zhihu.com)](https://www.zhihu.com/column/glenji)。
 - .etc
 - [AIChannel官方的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/1473830)，[AIChannel中国绊爱的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/484322035)。~~误~~
+
+
+
+![一张生成式AI应用全景图](assets/一张生成式AI应用全景图.webp)
+
+
+
+### AI 全链路 / 助理类
+
+#### AutoGPT - AI 全链路
+
+- 相关文章：
+  - [近期最火的GPT神器：AutoGPT，你知道多少 (baidu.com)](https://baijiahao.baidu.com/s?id=1763141741502922059&wfr=spider&for=pc)。
+  - [AutoGPT怎么使用 AutoGPT使用教程一览 - QT软件园 (qtvcd.com)](https://www.qtvcd.com/news/739-153851.html)。
+
+- Github 仓库：
+
+  - [Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous. (github.com)](https://github.com/Significant-Gravitas/Auto-GPT)。
+
+  - [RealHossie/Auto-GPT-Chinese: AutoGPT真中文版 (github.com)](https://github.com/RealHossie/Auto-GPT-Chinese)。
+
+- 部署相关：
+  - [Dogtiti/AutoGPT-Next-Web: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用 (github.com)](https://github.com/Dogtiti/AutoGPT-Next-Web)。
+  - [thecookingsenpai/autogpt-gui: A graphical user interface for AutoGPT (github.com)](https://github.com/thecookingsenpai/autogpt-gui)。
+
+#### AgentGPT
+
+- 相关文章：[AI杀疯了 | 自动帮你分解任务AgentGPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/627853932)。
+- 
+
+
+
+### 开发相关 / GPT 衍生工具
+
+
+
+#### 学术优化
+
+**binary-husky/gpt_academic**
+
+> 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。
+>
+> | 功能                      | 描述                                          |
+> | :------------------------ | :-------------------------------------------- |
+> | 一键润色                  | 支持一键润色、一键查找论文语法错误            |
+> | 一键中英互译              | 一键中英互译                                  |
+> | 一键代码解释              | 可以正确显示代码、解释代码                    |
+> | 自定义快捷键              | 支持自定义快捷键                              |
+> | 配詈代理服务器            | 支持配置代理服务器                            |
+> | 模块化设计                | 支持自定义高阶的实验性功能                    |
+> | 自我程序剖析              | ［实验性功能］ 一键读懂本项目的源代码         |
+> | 程序剖析                  | ［实验性功能］ —键可以剖析其他Python/C+＋项目 |
+> | 读论文                    | ［实验性功能］ —键解读latex论文全文并生成摘要 |
+> | 批量注释生成              | ［实验性功能］ —键批量生成函数注释            |
+> | chat分析报告生成          | ［实验性功能］运行后自动生成总结汇报          |
+> | 公式显示                  | 可以同时显示公式的tex形式和渲染形式           |
+> | 图片显示                  | 可以在markdown中显示图片                      |
+> | 支持GPT输出的markdown表格 | 可以输出支持GPT的markdown表格                 |
+
+- 相关文章：[学术科研专用ChatGPT来了！Github上已斩获2.9w+ Star (qq.com)](https://mp.weixin.qq.com/s?__biz=Mzg5NjkxOTkxOA==&mid=2247484540&idx=1&sn=65572c248dcfc836527d2cd1450269d5&chksm=c078f47df70f7d6bd56a2adbd3099256c8f3f7eeb534255a4465fe4026e49ec230add3438bf9&scene=132#wechat_redirect)。
+- Github 仓库：[binary-husky/gpt_academic: 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型 (github.com)](https://github.com/binary-husky/gpt_academic)。
+
+**kaixindelele/ChatPaper**
+
+> ChatPaper全流程加速科研：论文阅读+润色+优缺点分析与改进建议+审稿回复。
+>
+> | 工具名称        | 工具作用                                                     |
+> | --------------- | ------------------------------------------------------------ |
+> | ChatPaper       | 通过ChatGPT实现对**论文进行总结，帮助科研人进行论文初筛**    |
+> | ChatReviewer    | 利用ChatGPT对论文进行**优缺点分析，提出改进建议**            |
+> | ChatImprovement | 利用ChatGPT对**论文初稿进行润色、翻译等**                    |
+> | ChatResponse    | 利用ChatGPT对**审稿人的提问进行回复**                        |
+> | ChatGenTitle    | 利用百万arXiv论文元信息训练出来的论文题目生成模型，**根据论文摘要生成合适题目** |
+
+- 视频教程：[ChatPaper网页版使用小白教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18V4y1o7EH/)。
+- 官网：[ChatPaper](https://chatpaper.org/)。
+- Github 仓库：[kaixindelele/ChatPaper: Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复 (github.com)](https://github.com/kaixindelele/ChatPaper)。
+
+
+
+#### AI 帮你看
+
+首先，直接给 GPT 聊天框 投喂 要 AI 来帮你看 和 总结 的文本，并让 他 根据你的需要输出，其次，下面列举一些 专用的 GPT 衍生的 AI 帮你看东西的 工具。
+
+**BloopAI/bloop - AI 读代码**
+
+> 自然语言搜索非常适合探索不熟悉的代码库。它可以定位代码、总结、解释、推理，甚至提出改进建议。
+
+- 相关文章：[一个基于 GPT-4 的代码搜索引擎，开源了！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457982448&idx=1&sn=aa3c06c76aa67ba2bf77ca32d8967865&chksm=8cb7b01abbc0390c8b8afefc8d4e982430c27a85b1f26719550da1252e33c9d13bbaf6dbd518&scene=132#wechat_redirect)。
+- Github 仓库：[BloopAI/bloop: bloop is a fast code search engine written in Rust. (github.com)](https://github.com/BloopAI/bloop)。
+
+**peterw/Chat...Repo - AI 读 GitHub 仓库**
+
+- 相关文章：[3 个令人惊艳的 ChatGPT 项目，开源了！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457982631&idx=1&sn=6b5a837e8a9c3f2327530d549af504ab&chksm=8cb7b34dbbc03a5bec2709240602f0f0a5b594015c133c6b81422775b6cab441b48fb9c315f3&scene=132#wechat_redirect)。
+- Github 仓库：[peterw/Chat-with-Github-Repo: This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.](https://github.com/peterw/Chat-with-Github-Repo)。
+
+**bhaskatripathi/pdfGPT - AI 看PDF**
+
+- 相关文章：[最近爆火的一款 PDF 神器！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457980858&idx=1&sn=2755621d745a986a2eda31abf759983e&chksm=8cb7aa50bbc023461f2a8dca4e89cff62c24fa32b9046170ac584df48506cea7b5085d6ecdfa&scene=178&cur_album_id=2699685581743882241#rd)。
+- Github 仓库：[bhaskatripathi/pdfGPT: PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot! (github.com)](https://github.com/bhaskatripathi/pdfGPT)。
+
+
+
+#### AI 帮你码
+
+首先，用好提示词生成代码，即自己亲自与 ChatGPT 结对开发，用好、用对 提示词 让 ChatGPT 处于 “编程” 模式 去输出代码，快速做原型开发。
+
+提示词相关教程 见下文 `提示词工程` 一节。
+
+一个使用例子：[程序员如何利用 AI 将自己的工作完全自动化？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/594150259)。
+
+**getcursor/cursor**
+
+- 相关文章：[首个接入 GPT-4，曾经比 GitHub Copilot 还好用的代码编辑器，开源了！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457981336&idx=1&sn=17d4d07eacf28d1728502701935186bc&chksm=8cb7b472bbc03d64a0a728ae78b7b7e85197eef892a7fceffce5f9eae9a1c8fb67df1608925d&scene=178&cur_album_id=2699685581743882241#rd)。
+- Github 仓库：[getcursor/cursor: An editor made for programming with AI 🤖 (github.com)](https://github.com/getcursor/cursor)。
+
+**GitHub Copilot X**
+
+- 相关文章：[动动嘴，就能帮你生成代码！焕然一新的代码编辑器：GitHub Copilot X，来了！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457981240&idx=1&sn=1967aaf387bac6cf24792d28cabba3d1&chksm=8cb7b4d2bbc03dc4d889542c51d750d501d1735c4f7afdf0a7eba305bbe4ccc17d9b0563ee14&scene=178&cur_album_id=2699685581743882241#rd)。
+
+**Copilot Voice**
+
+- 相关文章：[集成 GPT-4，动动嘴就能上线一个网站，这个工具强的离谱！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457981602&idx=2&sn=562f0f935e7360ec44d6929e9791b828&chksm=8cb7b748bbc03e5e70c35184abdf6fb52777b0d1f24eb4f10673eea35d36b188a7ab5b9484b2&scene=178&cur_album_id=2699685581743882241#rd)。
+
+**Codex**
+
+- 相关文章：[支持文字和语音指令，AI实时自动编程，OpenAI升级版Codex面世了 (baidu.com)](https://baijiahao.baidu.com/s?id=1707782271190794163&wfr=spider&for=pc)。
+
+
+
+**Codeium - 网站**
+
+> 输入简单描述，自动为你写出一个网站的代码。
 
 
 
@@ -297,6 +331,18 @@ https://platform.openai.com/docs/guides/completion。
 
 
 
+#### Beautiful AI - PPT
+
+
+
+#### Writesonic - 写作
+
+
+
+#### HoppyCopy - 写邮件
+
+
+
 #### Notion ai - 笔记
 
 > 十秒内做个表格，自动填充数据；快速写篇博文、会议日程、新闻稿、职位描述，做个优劣势分析……帮你头脑风暴、写大纲、做菜谱，带你学东西……
@@ -307,13 +353,21 @@ https://platform.openai.com/docs/guides/completion。
 
 
 
-#### 其它
+#### Rezi - 简历
+
+
+
+
+
+#### 其它更多情报
 
 - [用 ChatGPT 将 Excel 工作效率提高 10 倍！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457980628&idx=1&sn=7fa148373a3f9c9eee72d1ab5fd3b396&chksm=8cb7ab3ebbc022285d4635f74c933be0137750084bdb6d5637c443cab84c873453b28625690b&scene=178&cur_album_id=2699685581743882241#rd)。
 
 
 
 ### 绘画相关
+
+在 上面 `提示词工程` 一节 也有 AI 图像生成相关的 提示词教程。
 
 
 
@@ -359,6 +413,27 @@ https://platform.openai.com/docs/guides/completion。
 
 - Visual ChatGPT。[不愧是微软，短短 5 天，项目突破 18000 GitHub Star！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457980888&idx=1&sn=1d2ef3d4ccdc48b5bcf23781dc647b19&chksm=8cb7aa32bbc023248e6d22afd4fd9da91440ab8dce2e1e5abcc8d79467fb94a2928d2242108f&scene=178&cur_album_id=2699685581743882241#rd)。
 - [文心一格 - AI艺术和创意辅助平台 (baidu.com)](https://yige.baidu.com/)。
+- DALL·E。
+
+
+
+### 写作 / 文案相关
+
+
+
+#### Writesonic - 文案
+
+> 输入描述，自动为你生成你想要的策划文案。
+
+[Writesonic-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=Writesonic)。
+
+
+
+#### Copy.ai - 写作
+
+> 这款AI写作工具非常适合各种类型的营销人员，无论是电子邮件、产品描述、标题、按钮文案还是广告，只需要选择所需的内容，提供一些输入数据，并选择合适的语气，AI将会为你生成多个不同版本的文案，让你挑选最符合你需求的一种。
+
+官网 [Free AI Writing Generators & Tools | No Login Required (copy.ai)](https://www.copy.ai/tools)。
 
 
 
@@ -366,43 +441,29 @@ https://platform.openai.com/docs/guides/completion。
 
 
 
-#### Autodraw - 绘图 / 线条设计图
+#### Looka - 图标设计
 
-[Autodraw-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=Autodraw)。
-
-官网 [AutoDraw](https://www.autodraw.com/)。
+> 输入指令，为你生成从图标到VI品牌的整套设计
 
 
-
-#### Palette.fm - 调色 / 黑白图上色
-
-[Palette.fm-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=Palette.fm)。
-
-官网 [Palette - Colorize Photos](https://palette.fm/)。
-
-
-
-#### Remove.bg - 抠图
-
-[Remove.bg-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=Remove.bg)。
-
-[3个好用的在线抠图工具：Remove.bg，Adobe Remove Background，佐糖PicWish!_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yS4y1J7Rr/)。
-
-> 抠图适应与 产品抠图，人物发丝等等，跨境电商，运营必备的神仙网站及应用： 
->
-> 🌈 remove bg https://www.remove.bg。
->
-> 🌈 Adobe Remove Background https://express.adobe.com/tools/remove-background。
->
-> 🌈 佐糖PicWish https://picwish.com。
 
 
 
 #### Fliki - 文字转视频 / 生成视频素材
 
+> 输入文案、图片等素材自动帮你生成视频。
+>
 > 通过AI技术，视频的生成和编辑已经变得更加容易和高效，AI可以通过深度学习和自然语言处理等技术来识别并理解视频中的元素，并根据用户的需求生成符合预期的视频内容。在这个领域，Fliki是一个非常出色的AI视频生成工具，它结合了最先进的技术，为用户提供了高质量的视频生成和编辑体验。
+>
+> 这是一款利用人工智能技术将文本转换为自然语音的视频应用。用户可以输入任何文本，然后选择所需的语音风格和声音特点，AI将生成一个高质量的语音视频。这种AI语音视频应用可以用于各种场景，如教育、广告、宣传等，让内容更加生动有趣，提高用户体验和吸引力。
 
 [Fliki-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=Fliki)。
+
+
+
+#### Artflow AI - 动画生成
+
+> 创建角色、输入文案后即可生成动画视频。
 
 
 
@@ -416,7 +477,33 @@ https://platform.openai.com/docs/guides/completion。
 
 
 
+#### Uberduck - 配音
+
+[Uberduck.AI: 在线AI文字转语音合成配音平台 – 网络探索者 (nettsz.com)](https://www.nettsz.com/uberduck-ai)。
+
+官网 [Uberduck | Make Music With AI Voices](https://uberduck.ai/)。
+
+
+
+#### Jukebox - 音乐
+
+> 这是一款OpenAI推出的AI音乐生成器，可以生成不同风格和流派的歌曲和音乐。
+
+官网 [Jukebox (openai.com)](https://openai.com/research/jukebox)。
+
+
+
+#### Interior AI - 室内设计
+
+
+
+
+
 #### super-resolution - 超分辨率 / 图像增强
+
+[超分辨率工具-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=超分辨率工具)。
+
+
 
 **Topaz Video Enhance AI** 收费，可试用
 
@@ -462,15 +549,45 @@ https://platform.openai.com/docs/guides/completion。
   > 如果你有个画质不咋地的480p动漫或者老照片老电影, 那么你就需要waifu2x来修复画质然后拉到高分辨率.
   > 因为waifu2x慢主要就是因为他集成了人工智能降噪的功能, 拉伸并不是很费时间, 而anime4k就是单纯的拉伸和套滤镜, 所以快. 如果你用了waifu2x就没必要用anime4k, 如果用了anime4k拉伸后再降噪, 也不会给你节省任何时间.
 
-更多 超分 工具：
+**Aimages**
 
-- [超分辨率工具-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=超分辨率工具)。
+> 一款基于AI技术的视频增强工具，可以不用下载新软件，在线实现视频的清晰度提升、色彩校正和去噪等多种增强效果。
+>
+> 这是一款基于AI技术的视频增强工具，可以不用下载新软件，在线实现视频的清晰度提升、色彩校正和去噪等多种增强效果。通过对视频进行智能分析和处理，提高观看体验，同时也提高了视频的质量和可视化效果。
 
-- 视频增强AI：Aimages，[Aimages - Online AI Video Enhancer](https://aimages.ai/)。
+[Aimages - Online AI Video Enhancer](https://aimages.ai/)。
 
-  > 一款基于AI技术的视频增强工具，可以不用下载新软件，在线实现视频的清晰度提升、色彩校正和去噪等多种增强效果。
 
-- .etc
+
+#### Remove.bg - 抠图
+
+[Remove.bg-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=Remove.bg)。
+
+[3个好用的在线抠图工具：Remove.bg，Adobe Remove Background，佐糖PicWish!_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yS4y1J7Rr/)。
+
+> 抠图适应与 产品抠图，人物发丝等等，跨境电商，运营必备的神仙网站及应用： 
+>
+> 🌈 remove bg https://www.remove.bg。
+>
+> 🌈 Adobe Remove Background https://express.adobe.com/tools/remove-background。
+>
+> 🌈 佐糖PicWish https://picwish.com。
+
+
+
+#### Palette.fm - 调色 / 黑白图上色
+
+[Palette.fm-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=Palette.fm)。
+
+官网 [Palette - Colorize Photos](https://palette.fm/)。
+
+
+
+#### AutoDraw - 绘图 / 线条设计图
+
+[Autodraw-哔哩哔哩_Bilibili](https://search.bilibili.com/all?keyword=Autodraw)。
+
+官网 [AutoDraw](https://www.autodraw.com/)。
 
 
 
@@ -556,10 +673,28 @@ https://platform.openai.com/docs/guides/completion。
 |          |          TruthGPT          | [TruthGPT](https://truthgpt.one/)。                          |
 |   .etc   |                            |                                                              |
 
-## AIGC 搞笑 / 惊人使用
+## AIGC 搞笑 / 惊人使用 / 变现相关
 
 回顾初遇 ChatGPT / AIGC 人们的种种反应，各种搞笑对话，脑洞打开的使用方法！
 
-[你用 ChatGPT 生成过哪些有趣的回答？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/570430650)。
+- [你用 ChatGPT 生成过哪些有趣的回答？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/570430650)。
+- [你见过最离谱的Midjourney生成图片是哪张？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/592244719)。
+- [我花了几百块买ChatGPT赚钱课，结果卖课的摊牌了【差评君】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Fz4y1Y7KY/)。
 
-[你见过最离谱的Midjourney生成图片是哪张？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/592244719)。
+- 有使用ChatGPT+剪影流水线做“爆款”视频新号一个星期十个视频播放百万（艹，这种东西还很有人看）：
+
+> 引用 流程，侵删
+>
+> 1、输入指令，让gpt整理50个爆款标题。
+>
+>  2、然后让gpt，根据这些爆款标题，直接生成新的标题。 
+>
+> 3、接下来，用这些新标题，让gpt，以第一人称，口语化的方式，去写脚本。 记得规定好字数，和框架。写出来的脚本基本就够用了。
+>
+> 4、直接把脚本文案导入“剪映”，选择图文成片。
+>
+>  5、粘贴脚本、然后把提前拍好的视频片段导入进去，根据脚本完成剪辑。
+>
+> 6、最后，选择文本朗读
+>
+> 7、使用 智影 或者 Easy元宇宙 添加数字人播报
