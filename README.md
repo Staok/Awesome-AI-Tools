@@ -7,3 +7,4 @@
 
 - Github [Awesome-AI-Tools/AI工具和用法汇总.md at main · Staok/Awesome-AI-Tools (github.com)](https://github.com/Staok/Awesome-AI-Tools/blob/main/28AI工具和用法汇总.md)。
 - Gitee [AI工具和用法汇总.md · 瞰百/Awesome-AI-Tools - 码云 - 开源中国 (gitee.com)](https://gitee.com/staok/Awesome-AI-Tools/blob/main/28AI工具和用法汇总.md)。
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Solana-native x402 MCP server for AI agent trust scoring. Free tools: `score_agent(wallet)`, `preflight_check(wallet)`. Paid: `get_trust_receipt` via HTTP 402 + USDC on Solana. MCP: `https://intel.twzrd.xyz/mcp`
