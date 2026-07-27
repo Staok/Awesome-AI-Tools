@@ -5,5 +5,6 @@
 
 正文：
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - Github [Awesome-AI-Tools/AI工具和用法汇总.md at main · Staok/Awesome-AI-Tools (github.com)](https://github.com/Staok/Awesome-AI-Tools/blob/main/28AI工具和用法汇总.md)。
 - Gitee [AI工具和用法汇总.md · 瞰百/Awesome-AI-Tools - 码云 - 开源中国 (gitee.com)](https://gitee.com/staok/Awesome-AI-Tools/blob/main/28AI工具和用法汇总.md)。
